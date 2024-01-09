@@ -530,7 +530,7 @@ browseViewer.openDocument(docUid);
 
 **Remark**
 
-- If another ducument is opened when there is a document already opened, the opened document will be closed automatically.
+- If another document is opened when there is a document already opened, the opened document will be closed automatically.
 
 ### closeDocument()
 
